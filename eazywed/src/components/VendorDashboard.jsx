@@ -12,7 +12,7 @@ import { generateWhatsAppLink } from "../utils/whatsapp.js"
 import createAPI from "../utils/api"
 
 // Import the responsive styles
-import "../styles/responsive.css"
+// import "../styles/responsive.css"
 
 const VendorDashboard = () => {
   const { user, logout } = useAuth()
